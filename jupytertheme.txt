@@ -1,0 +1,30 @@
+#background color
+.jp-Notebook {
+  padding: var(--jp-notebook-padding);
+  outline: none;
+  overflow: auto;
+  background: #1D1F21;
+}
+
+#body font color
+--jp-content-font-color1: rgba(255, 255, 255, 1);
+
+#table header color
+<tr style="color:rgba(255, 255, 255, 1)">
+
+#ins and outs
+--jp-cell-prompt-not-active-font-color: rgba(255, 255, 255, 1);
+
+#cell background
+--jp-cell-editor-background: #162534;
+
+#cell fonts
+--jp-mirror-editor-variable-color: #e0e0e0;
+--jp-mirror-editor-string-color: #e57373;
+--jp-mirror-editor-operator-color: #ba68c8;
+
+
+
+
+
+
